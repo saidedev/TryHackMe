@@ -1,3 +1,3 @@
 # TryHackMe
 ## Room
-- SQHell
+- [SQHell](https://github.com/saidedev/TryHackMe/tree/main/SQHell)
